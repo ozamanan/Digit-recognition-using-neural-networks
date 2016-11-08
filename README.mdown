@@ -1,0 +1,5 @@
+# Code samples for "Neural Networks and Deep Learning"
+
+As the code is written as a prctice for neural networks, I don't intend to add
+new features.  However, bug reports are welcome, and you should feel
+free to fork and modify the code.
